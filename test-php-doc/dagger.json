@@ -1,0 +1,6 @@
+{
+  "name": "test-php-doc",
+  "sdk": "php",
+  "source": ".",
+  "engineVersion": "v0.19.0"
+}
